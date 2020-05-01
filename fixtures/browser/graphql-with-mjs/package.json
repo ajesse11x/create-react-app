@@ -5,6 +5,12 @@
     "react-apollo": "2.2.1",
     "react": "latest",
     "react-dom": "latest",
-    "serve": "10.0.2"
-  }
+    "serve": "10.0.2",
+    "snyk": "^1.316.1"
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }
