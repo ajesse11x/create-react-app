@@ -60,7 +60,7 @@
     "react-error-overlay": "^5.0.4",
     "recursive-readdir": "2.2.2",
     "shell-quote": "1.6.1",
-    "sockjs-client": "1.1.5",
+    "sockjs-client": "1.2.0",
     "strip-ansi": "4.0.0",
     "text-table": "0.2.0"
   },
